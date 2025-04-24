@@ -10,7 +10,7 @@ We’ve built an **interactive and visually rich dashboard** to help explore sal
 
 Check out the dashboard you'll be working with:
 
-![Dashboard Preview](https://github.com/minhaj-313/Sales-Dashboard-Using-Excel---Data-Analyst-Project/blob/main/Sales%20Dashboard%20-%20Excel.png?raw=true)
+![Dashboard Preview]()
 
 ---
 
