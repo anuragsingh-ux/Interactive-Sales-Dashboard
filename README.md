@@ -10,7 +10,7 @@ We’ve built an **interactive and visually rich dashboard** to help explore sal
 
 Check out the dashboard you'll be working with:
 
-![Dashboard Preview](file:///C:/Users/Anurag%20Singh/Desktop/Dashboard.png)
+![Dashboard Preview](https://github.com/user-attachments/assets/37db36fe-d918-4d8a-a73d-6635175d539e)
 
 ---
 
